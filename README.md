@@ -1,5 +1,9 @@
 ![image](https://user-images.githubusercontent.com/101136369/172868038-8e8b3960-0d4c-43c0-892e-44588d194ed8.png)
 
+- 🔭 I’m currently working on a DMC embroidery floss to Hex Code and RGB Value API.
+- 🌱 I’m currently learning more about best practices for web accessibilty by working with the people that need it the most to see what developers don't always get right.
+- 📫 How to reach me: linkedin.com/in/robinson-barker
+- ⚡ Fun fact: Not only do I have a big love for embroidery, but I go rock climbing whenever I get the chance!
 
 <!--
 **RobinsonBarker/robinsonbarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![Uploading image.png…]()
