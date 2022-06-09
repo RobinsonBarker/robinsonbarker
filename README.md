@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a DMC embroidery floss to Hex Code and RGB Value API.**
 
-- 🌱 I’m currently learning **more about best practices for web accessibilty by working with the people that need it the most to see what developers don't always get right.**
+- 🌱 I’m currently learning **more about best practices for web accessibilty by working with the people that need it the most.**
 
 - 👨‍💻 Some of my projects are available at [robinsonbarker.netlify.com](robinsonbarker.netlify.com)
 
