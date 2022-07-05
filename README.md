@@ -9,7 +9,7 @@
 
 - 👨‍💻 Some of my projects are available at [robinsonbarker.netlify.com](robinsonbarker.netlify.com)
 
-- ⚡ Fun fact: **Not only do I have a big love for embroidery, but I go rock climbing whenever I get the chance!**
+- ⚡ Fun fact: **Not only do I have a big love for embroidery, but I go rock climbing whenever I get the chance.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
