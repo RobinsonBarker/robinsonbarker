@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Robinson Barker</h1>
 <h3 align="center">A Full Stack Software Developer from Canada</h3>
 
-- 🔭 I’m currently working on **a DMC embroidery floss to Hex Code and RGB Value API.**
+- 🔭 I’m currently working on **AWS Cloud Practitioner certification and a DMC embroidery floss to Hex Code and RGB Value API.**
 
 - 🌱 I’m currently learning **more about best practices for web accessibilty by working with the people that need it the most.**
 
