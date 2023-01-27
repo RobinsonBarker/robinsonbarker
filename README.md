@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Robinson Barker</h1>
 <h3 align="center">A Full Stack Software Developer from Canada</h3>
 
-- 🔭 I’m currently working on **AWS Cloud Practitioner certification and a DMC embroidery floss to Hex Code and RGB Value API.**
+- 🔭 I’m currently working on: **<br><br> - AWS Solutions Architect Associate certification <br> - Websites for a local leatherworker and restaurant <br> - Updating my portfolio website**
 
-- 🌱 I’m currently learning **more about best practices for web accessibilty by working with the people that need it the most.**
+- 🌱 I’m currently learning: **Python and Haskell**
 
 - 👨‍💻 Some of my projects are available at [robinsonbarker.netlify.com](robinsonbarker.netlify.com)
 
-- ⚡ Fun fact: **Not only do I have a big love for embroidery, but I go rock climbing whenever I get the chance.**
+- ⚡ Fun fact: **I go indoor rock climbing whenever I get the chance!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
