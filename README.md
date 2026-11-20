@@ -1,19 +1,21 @@
 ![image](https://user-images.githubusercontent.com/101136369/172868038-8e8b3960-0d4c-43c0-892e-44588d194ed8.png)
 
-<h1 align="center">Hi 👋, I'm Robinson Barker</h1>
-<h3 align="center">A Full Stack Software Developer from Canada</h3>
+<h1 align="center">Hi 👋 ^That's me! But please, call me Miah 🙂</h1>
+<h3 align="center">I'm your friendly (probably not so local) Full Stack Software Developer, from Canada</h3>
 
-- 🔭 I’m currently working on: **<br><br> - AWS Solutions Architect Associate certification <br> - Websites for a local leatherworker and restaurant <br> - Updating my portfolio website**
+- 🔭 I’m currently working on: **<br> - Updating my portfolio website.** <br>(So keep an eye out if you're interested!) <br><br>I've been known to highly prioritize accessibility in all of my builds, and that takes time! If a screen reader can't navigate it properly, my job isn't finished.
 
-- 🌱 I’m currently learning: **Python and Haskell**
+- 🌱 I’m currently learning: **<br> - GDScript/Godot<br> - Anthropology<br> - French<br> - ASL.**
 
+<!-- 
 - 👨‍💻 Some of my projects are available at [robinsonbarker.netlify.com](robinsonbarker.netlify.com)
+-->
 
-- ⚡ Fun fact: **I go indoor rock climbing whenever I get the chance!**
+- ⚡ Fun fact: **I am a HEMA practitioner, and currently own three seperate types of steel swords. Longsword, sabre, and Spanish rapier.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/manicmiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manicmiah" height="30" width="40" /></a> -->
+  
 <a href="https://linkedin.com/in/robinson-barker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robinson-barker" height="30" width="40" /></a>
 </p>
 
