@@ -11,7 +11,7 @@
 - 👨‍💻 Some of my projects are available at [robinsonbarker.netlify.com](robinsonbarker.netlify.com)
 -->
 
-- ⚡ Fun fact: **I am a HEMA practitioner, and currently own three seperate types of steel swords. Longsword, sabre, and Spanish rapier.**
+- ⚡ Fun fact: **I am a HEMA practitioner, and currently own three separate types of steel swords. Longsword, sabre, and Spanish rapier.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
